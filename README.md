@@ -1,5 +1,3 @@
-![logo](https://media.licdn.com/dms/image/D4D16AQHoVqZp7dxE3Q/profile-displaybackgroundimage-shrink_350_1400/0/1687369759253?e=1715212800&v=beta&t=-IkwTGcE44tgZZR2yP8bTqUGNwJ6GmLDgMknMKG7K28)
-
 <h1 align="center">Hi 👋, I'm Devansh Mishra</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
